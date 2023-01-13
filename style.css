@@ -1,0 +1,70 @@
+html,body{
+    width: 100%;
+    overflow-x: hidden;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.login-page{
+
+ background:rgb(0, 0, 0,0.5)  url("images/login\ \(2\).jpg");
+ background-blend-mode: darken;
+    width: 100%;
+    height: 100vh;
+    padding-top: 100px;
+    color: white;
+}
+/* login form */
+.login{
+    margin: auto;
+    width: 500px;
+}
+
+
+/* register form */
+
+.register-page{
+
+    background:rgb(0, 0, 0,0.5)  url("images/login\ \(1\).jpg");
+    background-size: cover;
+    background-blend-mode: darken;
+       width: 100%;
+       padding: 100px;
+       color: white;
+   }
+
+   .register{
+    margin: auto;
+    width: 500px;
+    background:rgb(0, 0, 0,0.5) ;
+    background-size: cover;
+    background-blend-mode: darken;
+    padding: 50px;
+}
+
+
+
+
+
+
+
+
+/* user style */
+#nav{
+    background-color: red;
+}
+.navbar-brand img{
+    width: 100px;
+    background-color: red;
+}
+
+span{
+    color: aqua;
+}
+
+
+
+
